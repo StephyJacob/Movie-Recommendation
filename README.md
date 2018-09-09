@@ -24,11 +24,11 @@ Data: http://files.grouplens.org/datasets/movielens/ml-1m.zip
 
 Data Description: http://files.grouplens.org/datasets/movielens/ml-20m-README.html
 
-Program Approach
+Program Approach:
 Created two scala files. One for analysis and one for Recommendation Model using Machine Learning
 
-Technologies Used for analysis
+Technologies Used for analysis:
 Spark, Spark SQL, Hortonwork Hadoop, HDFS
 
-Technologies used for Recommendation Model
+Technologies used for Recommendation Model:
 Spark MLLIB, Hortonwork Hadoop, HDFS, Algoritmhm Used: ALS (Alternating Least Square) 
